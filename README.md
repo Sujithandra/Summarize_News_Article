@@ -17,6 +17,8 @@ The user enters a news URL, and the application automatically:
 - ✔ Generates a summary
 - ✔ Performs sentiment analysis
 
+![imagealt](https://github.com/Sujithandra/Summarize_News_Article/blob/a610a6bec9de10d1696f76a9407b38de61fd14cb/output_img/WhatsApp%20Image%202025-11-20%20at%2000.08.03.jpeg)
+
 ## 🧠 How the System Works (Step-by-Step Workflow)
 1️. User enters a news URL
 
