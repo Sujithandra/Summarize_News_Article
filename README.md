@@ -115,6 +115,8 @@ news-summarizer
 
     └── sample_output.png
 
+![imagealt](https://github.com/Sujithandra/Summarize_News_Article/blob/5a37fba66e9aa23586365480b93e45dc1cccd95e/output_img/WhatsApp%20Image%202025-11-20%20at%2000.08.04.jpeg)
+
 -------------
 
 ## 📌 Summary
